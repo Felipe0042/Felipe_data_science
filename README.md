@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" >
+  <img src="Por-Que-e-Como-Data-Science-e-Mais-do-Que-Apenas-Machine-Learning.jpg" >
 </p>
 
 # Felipe Bonifacio
