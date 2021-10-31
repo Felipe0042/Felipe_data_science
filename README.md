@@ -16,7 +16,7 @@ Engenheiro Eletrônico e MBA em Data Science e Analytics USP - ESALQ.
 
 ## Projetos:
 
-* **Titulo:** https://bit.ly/2ZlaNsV
+* **Análise de Consumo:** https://bit.ly/3CCJ0XK
 
 ---
 
